@@ -2,7 +2,7 @@
 
 INSTRZ is an Online Marketplace that allows you, as an admin user, to create, delete, and edit items to publish in the marketplace.
 
-Developed as one of my portfolio projects, it is built in Python using Django framework.
+Developed as one of my Fullstack Developer portfolio projects, it is built in Python using Django framework, Html and a little bit of JavaScript.
 
 TO RUN IT
 
