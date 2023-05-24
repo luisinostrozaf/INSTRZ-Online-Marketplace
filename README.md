@@ -12,7 +12,7 @@ python -m venv /path/to/new/virtual/environment
 
 2) Activate virtual environment (windows)
 
-venvname/Scripts/Activate
+venvname\Scripts\Activate
 
 3) cd folder/with/the/project
 
