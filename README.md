@@ -4,7 +4,7 @@ INSTRZ is an Online Marketplace that allows you, as an admin user, to create, de
 
 Developed as one of my Fullstack Developer portfolio projects, it is built in Python using Django framework, Html and a little bit of JavaScript.
 
-TO RUN IT
+**How to Run**
 
 1) create virtual environment
 
